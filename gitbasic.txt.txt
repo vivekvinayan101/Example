@@ -1,0 +1,39 @@
+git and github
+
+
+version control manager
+
+git operations
+-------------
+-push : upload new project and new updates, local repo to remote repo.
+-pull : download new updations, remote repo to local repo.
+-clone: exact copy of project, remote repo to local repo.
+
+push
+-----
+-add
+-commit
+
+
+commands
+--------
+-git init : to initialize
+-git status : to check status
+-git add . : to add files
+-git commit -m " " : to commit files {m = message passed}
+-git remote -v : to check if remote repo is added
+-git remote add 'variable' 'link' :to add remote repo
+-git push -u 'variable' master : to push files
+-git clone 'new link' :
+-
+
+terms
+-----
+*untracked files- files that are not commited
+
+hosting
+-------
+1. Repo settings
+2. pages
+3. branches- change none to master
+4. click the generated link

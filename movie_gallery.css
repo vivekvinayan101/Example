@@ -1,0 +1,82 @@
+@import url('https://fonts.googleapis.com/css2?family=Fredericka+the+Great&family=Great+Vibes&family=Kaushan+Script&family=Lobster&family=Poppins&family=Secular+One&display=swap');
+
+h1 {
+    text-align: center;
+    background-color: rgb(53, 51, 51);
+    color: rgb(201, 238, 108);
+    font-family: 'Fredericka the Great', cursive;
+    text-shadow: 5px;
+}
+
+h2 {
+    text-align: center;
+    margin-top: 5px;
+    color: darkgrey;
+    font-family: 'Poppins', sans-serif;
+
+}
+
+.col {
+    width: 23.1%;
+    height: 780px;
+    border: 6px rgb(53, 51, 51) solid;
+    position: relative;
+    top: 10px;
+    margin-left: 10px;
+}
+
+.col-1 {
+    background-color: rgb(26, 24, 24);
+    float: left;
+}
+
+.col-2 {
+    background-color: rgb(26, 24, 24);
+    float: left;
+}
+
+.col-3 {
+    background-color: rgb(26, 24, 24);
+    float: left;
+}
+
+.col-4 {
+    background-color: rgb(26, 24, 24);
+    float: left;
+}
+
+.c {
+    position: absolute;
+    background-color: rgb(53, 51, 51);
+    border: 3px rgb(86, 83, 83) solid;
+    width: 90%;
+    margin-left: 15px;
+    height: 40px;
+    top: 730px;
+}
+
+img {
+    width: 97%;
+    height: 450px;
+    padding-left: 6px;
+    padding-top: 6px;
+    padding-right: 4px;
+    border-radius: 20px;
+}
+
+body {
+    background-color: rgb(26, 24, 24);
+}
+
+p {
+    color: beige;
+    margin-left: 4px;
+    text-align: center;
+    font-family: 'Secular One', sans-serif;
+    font-size: small;
+}
+h3{
+    color: aquamarine;
+    margin-left: 5px;
+    font-family: 'Kaushan Script', cursive;
+}
